@@ -1,0 +1,9 @@
+carrinho
+carrinho.exe
+docs/documentacao.aux
+docs/documentacao.log
+docs/documentacao.out
+docs/documentacao.pdf
+docs/documentacao.toc
+docs/*
+*.gz
